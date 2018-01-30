@@ -1,3 +1,6 @@
 print("my name is Olivia")
 print("I was born in March")
+print("my favorite food is sushi")
+print("my favorite type of music is rap")
+print("I am a pisces")
 print("my name is Gaby")
